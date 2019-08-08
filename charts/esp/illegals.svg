@@ -17,7 +17,7 @@
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="illegals.svg"
-   inkscape:export-filename="/home/adrian/Documents/Numerico/Trumpizame/esp/png/02_illegals.png"
+   inkscape:export-filename="/home/adrian/Documents/Numerico/Trumpizame/charts/esp/png/02_illegals.png"
    inkscape:export-xdpi="94.360001"
    inkscape:export-ydpi="94.360001">
   <defs
@@ -3406,9 +3406,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.011236"
-     inkscape:cx="368.02672"
-     inkscape:cy="595.3838"
+     inkscape:zoom="0.81403512"
+     inkscape:cx="492.07727"
+     inkscape:cy="469.87175"
      inkscape:document-units="px"
      inkscape:current-layer="g23077"
      showgrid="false"
@@ -3424,7 +3424,7 @@
      borderlayer="true"
      inkscape:window-width="956"
      inkscape:window-height="1040"
-     inkscape:window-x="1366"
+     inkscape:window-x="2326"
      inkscape:window-y="18"
      inkscape:window-maximized="0"
      showguides="true"
@@ -8547,41 +8547,6 @@
       </g>
       <g
          transform="matrix(0.35277778,0,0,-0.35277778,-28.2326,266.09917)"
-         id="g8097">
-        <g
-           id="g8099" />
-        <g
-           id="g8123">
-          <g
-             id="g8121"
-             clip-path="url(#clipPath8103)">
-            <g
-               id="g8119">
-              <g
-                 id="g8109" />
-              <g
-                 id="g8117">
-                <g
-                   id="g8115"
-                   clip-path="url(#clipPath8107)">
-                  <text
-                     id="text8113"
-                     style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Lato;-inkscape-font-specification:Lato-Regular;writing-mode:lr-tb;fill:#4e4f51;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                     transform="matrix(1,0,0,-1,159.7832,488.9766)">
-                    <tspan
-                       id="tspan8111"
-                       sodipodi:role="line"
-                       y="0"
-                       x="0 3.5799999 9.1499996 11.55 17.709999 23.379999">tuiton</tspan>
-                  </text>
-                </g>
-              </g>
-            </g>
-          </g>
-        </g>
-      </g>
-      <g
-         transform="matrix(0.35277778,0,0,-0.35277778,-28.2326,266.09917)"
          id="g8125">
         <g
            id="g8127" />
@@ -9373,6 +9338,55 @@
              x="466.27942"
              id="tspan18405-44-5"
              sodipodi:role="line">citizens</tspan></text>
+      </g>
+      <g
+         id="g56258">
+        <g
+           id="g8097"
+           transform="matrix(0.35277778,0,0,-0.35277778,-28.2326,266.10709)">
+          <g
+             id="g8099" />
+          <g
+             id="g8123">
+            <g
+               clip-path="url(#clipPath8103)"
+               id="g8121">
+              <g
+                 id="g8119">
+                <g
+                   id="g8109" />
+                <g
+                   id="g8117">
+                  <g
+                     clip-path="url(#clipPath8107)"
+                     id="g8115">
+                    <text
+                       transform="matrix(1,0,0,-1,159.7832,488.9766)"
+                       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Lato;-inkscape-font-specification:Lato-Regular;writing-mode:lr-tb;fill:#4e4f51;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                       id="text8113">
+                      <tspan
+                         x="0 3.5799999 9.1499996 11.55 17.709999 23.379999"
+                         y="0"
+                         sodipodi:role="line"
+                         id="tspan8111">tuiton</tspan>
+                    </text>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <text
+           id="text56244"
+           y="93.621124"
+           x="33.5756"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;fill:#4e4f51;fill-opacity:1;stroke:none;stroke-width:0.26458335;"
+           xml:space="preserve"><tspan
+             style="fill:#4e4f51;fill-opacity:1;stroke-width:0.26458335;"
+             y="93.621124"
+             x="33.5756"
+             id="tspan56242"
+             sodipodi:role="line">i</tspan></text>
       </g>
     </g>
   </g>
