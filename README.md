@@ -1,9 +1,9 @@
 ## Adventurous Social Science |
 ![Dos EE. UU.](/images/note_image.jpeg "Dos EE. UU.")
 
-# El odio a los mexicanos es reforzado por el discurso antiinmigrante de Trump
+# El odio a los mexicanos es reforzado por el discurso antinmigrante de Trump
 
-El pasado sábado un crimen de odio en contra de mexicanos sucedió en El Paso, Texas. En su manifiesto, el atacante retomó puntos de la retórica antiinmigrante de Trump y sus seguidores. En Numérico creemos que las palabras importan. Consideramos que este ataque es una consecuencia de la narrativa nativista formada en los últimos años alrededor de los migrantes mexicanos en EE. UU. y que ha sido aprovechada por Donald Trump para formar su base social. Entender esa narrativa es clave para entender el contexto ideológico en que esta tragedia tuvo lugar. Para entender a profundidad, hemos creado un modelo de lenguaje que busca explicar cómo los seguidores de Trump interpretan a los mexicanos y a los migrantes.
+El pasado sábado un crimen de odio en contra de mexicanos sucedió en El Paso, Texas. En su manifiesto, el atacante retomó puntos de la retórica antinmigrante de Trump y sus seguidores. En Numérico creemos que las palabras importan. Consideramos que este ataque es una consecuencia de la narrativa nativista formada en los últimos años alrededor de los migrantes mexicanos en EE. UU. y que ha sido aprovechada por Donald Trump para formar su base social. Entender esa narrativa es clave para entender el contexto ideológico en que esta tragedia tuvo lugar. Para entender a profundidad, hemos creado un modelo de lenguaje que busca explicar cómo los seguidores de Trump interpretan a los mexicanos y a los migrantes.
 
 ## _Modelando el lenguaje de los seguidores de Trump_
 Estamos convencidos de que podemos comprender mejor la visión de una comunidad al entender su dialecto. Las lenguas son el marco de referencia de nuestro pensamiento --- si logramos entender cómo las palabras están asociadas en la mente de una persona, podemos entender cómo sus ideas se forman. Por esta razón, comenzamos por recolectar cuatro millones de tuits pertenecientes a más de dos mil fervientes seguidores de Trump[1].
