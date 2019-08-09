@@ -5,7 +5,7 @@
 
 El pasado sábado un crimen de odio en contra de mexicanos sucedió en El Paso, Texas. En su manifiesto, el atacante retomó puntos de la retórica antiinmigrante de Trump y sus seguidores. En Numérico creemos que las palabras importan. Consideramos que este ataque es una consecuencia de la narrativa nativista formada en los últimos años alrededor de los migrantes mexicanos en EE. UU. y que ha sido aprovechada por Donald Trump para formar su base social. Entender esa narrativa es clave para entender el contexto ideológico en que esta tragedia tuvo lugar. Para entender a profundidad, hemos creado un modelo de lenguaje que busca explicar cómo los seguidores de Trump interpretan a los mexicanos y a los migrantes.
 
-### _Modelando el lenguaje de los seguidores de Trump_
+## _Modelando el lenguaje de los seguidores de Trump_
 Estamos convencidos de que podemos comprender mejor la visión de una comunidad al entender su dialecto. Las lenguas son el marco de referencia de nuestro pensamiento --- si logramos entender cómo las palabras están asociadas en la mente de una persona, podemos entender cómo sus ideas se forman. Por esta razón, comenzamos por recolectar cuatro millones de tuits pertenecientes a más de dos mil fervientes seguidores de Trump[^bignote].
 
 [^bignote]: Somos conscientes de que esto podría sesgar los resultados. Sin embargo, creemos que asumir que la gente que expresa su apoyo a Trump en Twitter son una población representativa, es menos dañino que confiar en diagnósticos meramente cualitativos.  En el peor escenario, este estudio es un análisis válido de una parte importante de los seguidores de Trump, en especial entre jóvenes internautas.  
@@ -17,14 +17,14 @@ La **distancia geométrica** entre dichos vectores cuantifica la **distancia sem
 Aquí un ejemplo del **espacio semántico** cercano a la palabra __estúpido__:
 ![El vocabulario de los seguidores de Trump](/charts/esp/png/01_stupid.png "Vocabulario de los seguidores de Trump")
 
-### _¿Qué ideas son cercanas a los mexicanos en la mente de un seguidor de Trump?_
+## _¿Qué ideas son cercanas a los mexicanos en la mente de un seguidor de Trump?_
 ![Los 4 grandes temas](/charts/esp/png/02_illegals.png "Los 4 grandes temas")
 
 La figura anterior muestra diferentes términos en el vecindario semántico de la palabra **mexicanos**. Podemos distinguir cuatro temas: **Inmigración**, **Crimen**, **Gobierno intervencionista** y **Empleos**. El grupo temático con mayor palabras es Crimen.
 
 El discurso de Trump alimenta el **odio** y **miedo** de sus seguidores. Infunde el miedo hacia los extranjeros, en especial a los **latinos**. Esta transferencia de miedo es únicamente posible porque los seguidores de Trump ya están atemorizados de los migrantes: ven a los extranjeros como una masa borrosa de invasores que realizan crímenes y les roban el trabajo. Esta idea está profundamente arraigada en su visión, como veremos posteriormente. Además, dicho miedo es peligroso ya que consideramos fue el detonante de la masacre en Texas. Es un nicho perfecto para la violencia.
 
-### _¿Por qué los seguidores de Trump tienen tanto miedo a los inmigrantes?_
+## _¿Por qué los seguidores de Trump tienen tanto miedo a los inmigrantes?_
 Para entender como un extranjero se convierte en un enemigo, nos concentramos en dibujar un camino mental de **extranjero** a **invasor**. Hemos creado mapas mentales que crean los siguientes términos como raíces y hemos incluido de forma paulatina otras palabras que están relacionadas semánticamente en la mente de los seguidores de Trump. A esto le llamamos árboles semánticos. Pueden ser interpretados como trenes de pensamiento dentro del imaginario de los seguidores fervientes de Trump.
 
 ![Mapa mental de aliens](/charts/esp/png/03_aliens_mindmap.png "Mapa mental de aliens")
@@ -37,7 +37,7 @@ Los mexicanos no son los únicos considerados como enemigos. Otros grupos (e.g. 
 
 Analizando estos árboles semánticos podemos inferir los sustantivos de los seguidores de Trump. El **enemigo** es un ente externo, poderoso, difuso y multifacético (**ilegales**, mexicanos, refugiados, musulmanes, europeos). El enemigo es responsable por el estado de desastre y es una amenaza peligrosa (violadores, terroristas, crimen) que se debería combatir. Los extranjeros se han convertido en la principal causa de ansiedad.
 
-### _¿Cómo altera la propaganda de Trump el comportamiento y las creencias de sus seguidores?_
+## _¿Cómo altera la propaganda de Trump el comportamiento y las creencias de sus seguidores?_
 
 Hemos analizado la evolución temporal de cuatro temáticas que caracterizan la vecindad de la palabra mexicanos. **Estos temas juntos representan más del 20% de los tuits diarios de los seguidores de Trump**.
 
