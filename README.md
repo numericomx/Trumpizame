@@ -18,7 +18,7 @@ Aquí un ejemplo del **espacio semántico** cercano a la palabra __estúpido__:
 ![El vocabulario de los seguidores de Trump](/charts/esp/png/01_stupid.png "Vocabulario de los seguidores de Trump")
 
 ### _¿Qué ideas son cercanas a los mexicanos en la mente de un seguidor de Trump?_
-![Los 4 grandes temas](/charts/esp/png/02_clusters_count.png "Los 4 grandes temas")
+![Los 4 grandes temas](/charts/esp/png/02_illegals.png "Los 4 grandes temas")
 
 La figura anterior muestra diferentes términos en el vecindario semántico de la palabra **mexicanos**. Podemos distinguir cuatro temas: **Inmigración**, **Crimen**, **Gobierno intervencionista** y **Empleos**. El grupo temático con mayor palabras es Crimen.
 
